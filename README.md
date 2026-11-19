@@ -1,1 +1,1 @@
-# CollegeBudgettingAssistant
+# College Budgeting Assistant
